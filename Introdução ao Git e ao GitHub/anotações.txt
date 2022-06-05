@@ -1,0 +1,26 @@
+Link para download do Git: https://git-scm.com/downloads
+O Git Base é um terminal extendido para otimizar o uso do Git.
+
+# Comandos 
+
+Windows
+dir = Listar diretórios[pastas]
+cd = Navegar entre os diretórios[pastas]
+cd .. = Retornar
+cls = Limpar terminal
+cd + TAB = Auto completa o que estiver escrevendo
+mkdir "name" = Criar uma nova pasta no diretório onde está
+echo "name" > hello.txt = Criar um arquivo dentro de uma pasta
+del "name" = Para deletar uma pasta ou arquivo
+rmdir "name" /s /Q
+
+Linux
+sudo su = Pegar permissão no linux
+ls = Listar diretórios[pastas]
+cd = Navegar entre os diretórios[pastas]
+cd .. = Retornar
+clear = Limpar terminal
+cd + TAB = Auto completa o que estiver escrevendo
+mkdir "nome" = Criar uma nova pasta no diretório onde está
+echo "name" > hello.txt = Criar um arquivo dentro de uma pasta
+rm -rf "name" = Para deletar uma pasta ou arquivo
